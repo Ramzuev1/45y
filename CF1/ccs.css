@@ -1,0 +1,15 @@
+
+
+.sas{ text-align: center }
+
+  .container {
+            display: flex;
+            border: 2px ;
+        }
+ 
+        .box {
+            flex: 1;
+            margin: 15px;
+            padding: 40px;
+            border: 2px ;
+        }
